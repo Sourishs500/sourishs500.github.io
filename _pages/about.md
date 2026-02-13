@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Honors Computer Engineering @ UCLA '26
+
+# <a href='#'>Affiliations</a>. B
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Los Angeles, California</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,7 +29,9 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-Hi, my name is Sourish! I'm a senior undergrad at UCLA studying Computer Engineering. My technical interests include OS, distributed systems, and parallel/distributed computing. Most recently, I worked at Apple over the summer as a Software Engineering Intern on a Cloud Infra team in SF, working on an internal batch compute platform. The summer before that, I was also at Apple as a SWE Intern, but in the Core Operating Systems PCIE team in Austin, writing lower-level, kernel software for Apple Silicon. Finally, the summer after my freshman year, I did research at a human-centered computing & IoT lab at UCLA, building an end-to-end system to analyze road conditions using e-scooters. 
+Hi, my name is Sourish! I'm a senior undergrad at UCLA studying Computer Engineering. My technical interests include OS, distributed systems, and parallel/distributed computing. 
+
+I've worked at Apple as a Software Engineering Intern for the past two summers, working on an internal batch compute platform with a Cloud Infra team in San Francisco (2025) and on writing lower-level, kernel software for Apple Silicon with the Core Operating Systems PCIE team in Austin (2024). The summer before these, I did research at a human-centered computing & IoT lab at UCLA, building an end-to-end system to analyze road conditions using electric scooters. 
 
 Put your address / P.Oh. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
