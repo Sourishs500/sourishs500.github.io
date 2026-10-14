@@ -29,7 +29,7 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-Hi, my name is Sourish! I'm a senior undergrad at UCLA studying Computer Engineering. My technical interests include OS, distributed systems, and parallel/distributed computing. 
+Hi, my name is Sourish! I graduated from UCLA in June 2026, with a B.S. in Computer Engineering. My technical interests include OS, distributed systems, and parallel/distributed computing. 
 
 I've worked at Apple as a Software Engineering Intern for the past two summers, working on an internal batch compute platform with a Cloud Infra team in San Francisco (2025) and on writing lower-level, kernel software for Apple Silicon with the Core Operating Systems PCIE team in Austin (2024). The summer before these, I did research at the <a href="https://www.hilab.dev">HiLab</a>, a human-centered computing & IoT lab at UCLA, building an end-to-end system to analyze road conditions using electric scooters. 
 
